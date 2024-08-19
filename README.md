@@ -1,4 +1,4 @@
-# Nextcloud Groupfolder's ACL flattener
+# Nextcloud Groupfolder's ACL flattener
 
 Tl;DR:
 - Currently, there is no way for a Groupfolder administrator to know what permissions are applied for a given group or user based on the WebUI  (when parent rules aren't all explicitely set)
@@ -46,7 +46,7 @@ The subdirectory is now displaying the right permissions even though the script 
 
 Update the `migrator-config.php` to update your Nextcloud bin dir and disable the "Dry Run" mode.
 
-### Run
+### Run
 
 > [!IMPORTANT]
 > Before running the script, make sure you have made a backup your database, as changes will be hard to revert manually.

@@ -157,4 +157,4 @@ End result
 ```
 
 ## Credits
-These two php scripts were developped by [M. Coupin](https://github.com/tcoupin) in collaboration with Arawa. They have been used to "fix" the Nextcloud instance he's managing with success.
+These two php scripts were developped by [Thibault Coupin](https://github.com/tcoupin), from the [French National Research Institute for Sustainable Development](https://www.ird.fr) in collaboration with Arawa. They have been used to "fix" the Nextcloud instance he's managing with success.
